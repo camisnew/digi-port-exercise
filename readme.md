@@ -9,6 +9,8 @@ Pra master branch não ficar uma bagunça, vou pedir pra seguirem esses passos:
 
 * `git branch "nome"`
 
+* `git checkout "nome"`
+
 * `git commit -m "descrição aqui"`
 
 * `git push` - é o certo, mas vai dar erro na primeira tentativa sempre (tem que dizer pra onde tu tá "empurrando" os commits)
