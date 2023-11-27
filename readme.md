@@ -21,3 +21,6 @@ Pra master branch não ficar uma bagunça, vou pedir pra seguirem esses passos:
   * seguir a hint
 
 * quando tu abrir de novo a página do exercício, vai ter opção de abrir uma PR
+
+
+OBRIGADA!
